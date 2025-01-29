@@ -1,0 +1,220 @@
+takada_model_0.pth, Adam, CrossEntropyLoss(), 1, 921, 4.08865976, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=64, bias=True)
+  (fc3): Linear(in_features=64, out_features=64, bias=True)
+)
+takada_model_5.pth, Adam, CrossEntropyLoss(), 0.1, 638, 4.08896160, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=64, bias=True)
+  (fc3): Linear(in_features=64, out_features=64, bias=True)
+)
+takada_model_10.pth, Adam, CrossEntropyLoss(), 0.01, 100000, 2.44100881, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=64, bias=True)
+  (fc3): Linear(in_features=64, out_features=64, bias=True)
+)
+takada_model_15.pth, Adam, CrossEntropyLoss(), 0.001, 100000, 1.78133368, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=64, bias=True)
+  (fc3): Linear(in_features=64, out_features=64, bias=True)
+)
+takada_model_20.pth, Adam, CrossEntropyLoss(), 0.0001, 9642, 1.86702657, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=64, bias=True)
+  (fc3): Linear(in_features=64, out_features=64, bias=True)
+)
+takada_model_25.pth, Adam, CrossEntropyLoss(), 1e-05, 30598, 1.93977356, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=64, bias=True)
+  (fc3): Linear(in_features=64, out_features=64, bias=True)
+)
+takada_model_30.pth, Adam, CrossEntropyLoss(), 1, 635, 4.08888960, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_35.pth, Adam, CrossEntropyLoss(), 0.1, 1510, 4.02395058, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_40.pth, Adam, CrossEntropyLoss(), 0.01, 100000, 1.40030921, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_45.pth, Adam, CrossEntropyLoss(), 0.001, 100000, 1.52605605, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_50.pth, Adam, CrossEntropyLoss(), 0.0001, 20848, 1.62530053, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_55.pth, Adam, CrossEntropyLoss(), 1e-05, 27600, 1.86704075, Net(
+  (fc1): Linear(in_features=128, out_features=128, bias=True)
+  (fc2): Linear(in_features=128, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_60.pth, Adam, CrossEntropyLoss(), 1, 632, 4.08889008, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_65.pth, Adam, CrossEntropyLoss(), 0.1, 995, 3.94396353, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_70.pth, Adam, CrossEntropyLoss(), 0.01, 100000, 2.55134559, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_75.pth, Adam, CrossEntropyLoss(), 0.001, 100000, 1.49588561, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_80.pth, Adam, CrossEntropyLoss(), 0.0001, 100000, 1.54543447, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_85.pth, Adam, CrossEntropyLoss(), 1e-05, 30845, 1.76330769, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=128, bias=True)
+  (fc3): Linear(in_features=128, out_features=64, bias=True)
+)
+takada_model_90.pth, Adam, CrossEntropyLoss(), 1, 635, 4.08881474, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=256, bias=True)
+  (fc3): Linear(in_features=256, out_features=64, bias=True)
+)
+takada_model_95.pth, Adam, CrossEntropyLoss(), 0.1, 1269, 3.94358206, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=256, bias=True)
+  (fc3): Linear(in_features=256, out_features=64, bias=True)
+)
+takada_model_100.pth, Adam, CrossEntropyLoss(), 0.01, 100000, 3.03520489, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=256, bias=True)
+  (fc3): Linear(in_features=256, out_features=64, bias=True)
+)
+takada_model_105.pth, Adam, CrossEntropyLoss(), 0.001, 100000, 1.05769396, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=256, bias=True)
+  (fc3): Linear(in_features=256, out_features=64, bias=True)
+)
+takada_model_110.pth, Adam, CrossEntropyLoss(), 0.0001, 100000, 1.10826945, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=256, bias=True)
+  (fc3): Linear(in_features=256, out_features=64, bias=True)
+)
+takada_model_115.pth, Adam, CrossEntropyLoss(), 1e-05, 38993, 1.39647567, Net(
+  (fc1): Linear(in_features=128, out_features=256, bias=True)
+  (fc2): Linear(in_features=256, out_features=256, bias=True)
+  (fc3): Linear(in_features=256, out_features=64, bias=True)
+)
+takada_model_120.pth, Adam, CrossEntropyLoss(), 0.1, 1671, 3.98823524, Net(
+  (fc1): Linear(in_features=128, out_features=512, bias=True)
+  (fc2): Linear(in_features=512, out_features=256, bias=True)
+  (fc3): Linear(in_features=256, out_features=64, bias=True)
+)
+takada_model_125.pth, Adam, CrossEntropyLoss(), 0.01, 44619, 3.78071404, Net(
+  (fc1): Linear(in_features=128, out_features=512, bias=True)
+  (fc2): Linear(in_features=512, out_features=256, bias=True)
+  (fc3): Linear(in_features=256, out_features=64, bias=True)
+)
+takada_model_130.pth, Adam, CrossEntropyLoss(), 0.001, 100000, 1.04115903, Net(
+  (fc1): Linear(in_features=128, out_features=512, bias=True)
+  (fc2): Linear(in_features=512, out_features=256, bias=True)
+  (fc3): Linear(in_features=256, out_features=64, bias=True)
+)
+takada_model_135.pth, Adam, CrossEntropyLoss(), 0.0001, 100000, 1.09787166, Net(
+  (fc1): Linear(in_features=128, out_features=512, bias=True)
+  (fc2): Linear(in_features=512, out_features=256, bias=True)
+  (fc3): Linear(in_features=256, out_features=64, bias=True)
+)
+takada_model_140.pth, Adam, CrossEntropyLoss(), 1e-05, 34762, 1.33607936, Net(
+  (fc1): Linear(in_features=128, out_features=512, bias=True)
+  (fc2): Linear(in_features=512, out_features=256, bias=True)
+  (fc3): Linear(in_features=256, out_features=64, bias=True)
+)
+takada_model_145.pth, Adam, CrossEntropyLoss(), 0.1, 758, 4.08893824, Net(
+  (fc1): Linear(in_features=128, out_features=512, bias=True)
+  (fc2): Linear(in_features=512, out_features=512, bias=True)
+  (fc3): Linear(in_features=512, out_features=64, bias=True)
+)
+takada_model_150.pth, Adam, CrossEntropyLoss(), 0.01, 100000, 1.22633541, Net(
+  (fc1): Linear(in_features=128, out_features=512, bias=True)
+  (fc2): Linear(in_features=512, out_features=512, bias=True)
+  (fc3): Linear(in_features=512, out_features=64, bias=True)
+)
+takada_model_155.pth, Adam, CrossEntropyLoss(), 0.001, 100000, 0.19402309, Net(
+  (fc1): Linear(in_features=128, out_features=512, bias=True)
+  (fc2): Linear(in_features=512, out_features=512, bias=True)
+  (fc3): Linear(in_features=512, out_features=64, bias=True)
+)
+takada_model_160.pth, Adam, CrossEntropyLoss(), 0.0001, 100000, 0.38312528, Net(
+  (fc1): Linear(in_features=128, out_features=512, bias=True)
+  (fc2): Linear(in_features=512, out_features=512, bias=True)
+  (fc3): Linear(in_features=512, out_features=64, bias=True)
+)
+takada_model_165.pth, Adam, CrossEntropyLoss(), 1e-05, 41584, 0.74514991, Net(
+  (fc1): Linear(in_features=128, out_features=512, bias=True)
+  (fc2): Linear(in_features=512, out_features=512, bias=True)
+  (fc3): Linear(in_features=512, out_features=64, bias=True)
+)
+takada_model_170.pth, Adam, CrossEntropyLoss(), 0.1, 1030, 4.08891916, Net(
+  (fc1): Linear(in_features=128, out_features=1024, bias=True)
+  (fc2): Linear(in_features=1024, out_features=512, bias=True)
+  (fc3): Linear(in_features=512, out_features=64, bias=True)
+)
+takada_model_175.pth, Adam, CrossEntropyLoss(), 0.01, 100000, 0.86871880, Net(
+  (fc1): Linear(in_features=128, out_features=1024, bias=True)
+  (fc2): Linear(in_features=1024, out_features=512, bias=True)
+  (fc3): Linear(in_features=512, out_features=64, bias=True)
+)
+takada_model_180.pth, Adam, CrossEntropyLoss(), 0.001, 100000, 0.36825731, Net(
+  (fc1): Linear(in_features=128, out_features=1024, bias=True)
+  (fc2): Linear(in_features=1024, out_features=512, bias=True)
+  (fc3): Linear(in_features=512, out_features=64, bias=True)
+)
+takada_model_185.pth, Adam, CrossEntropyLoss(), 0.0001, 100000, 0.34724554, Net(
+  (fc1): Linear(in_features=128, out_features=1024, bias=True)
+  (fc2): Linear(in_features=1024, out_features=512, bias=True)
+  (fc3): Linear(in_features=512, out_features=64, bias=True)
+)
+takada_model_190.pth, Adam, CrossEntropyLoss(), 1e-05, 37956, 0.64457691, Net(
+  (fc1): Linear(in_features=128, out_features=1024, bias=True)
+  (fc2): Linear(in_features=1024, out_features=512, bias=True)
+  (fc3): Linear(in_features=512, out_features=64, bias=True)
+)
+takada_model_195.pth, Adam, CrossEntropyLoss(), 0.1, 1469, 4.08890390, Net(
+  (fc1): Linear(in_features=128, out_features=1024, bias=True)
+  (fc2): Linear(in_features=1024, out_features=1024, bias=True)
+  (fc3): Linear(in_features=1024, out_features=64, bias=True)
+)
+takada_model_200.pth, Adam, CrossEntropyLoss(), 0.01, 2432, 3.85791874, Net(
+  (fc1): Linear(in_features=128, out_features=1024, bias=True)
+  (fc2): Linear(in_features=1024, out_features=1024, bias=True)
+  (fc3): Linear(in_features=1024, out_features=64, bias=True)
+)
+takada_model_205.pth, Adam, CrossEntropyLoss(), 0.001, 13196, 0.12078664, Net(
+  (fc1): Linear(in_features=128, out_features=1024, bias=True)
+  (fc2): Linear(in_features=1024, out_features=1024, bias=True)
+  (fc3): Linear(in_features=1024, out_features=64, bias=True)
+)
+takada_model_210.pth, Adam, CrossEntropyLoss(), 0.0001, 100000, 0.11425737, Net(
+  (fc1): Linear(in_features=128, out_features=1024, bias=True)
+  (fc2): Linear(in_features=1024, out_features=1024, bias=True)
+  (fc3): Linear(in_features=1024, out_features=64, bias=True)
+)
+takada_model_215.pth, Adam, CrossEntropyLoss(), 1e-05, 27259, 0.15229744, Net(
+  (fc1): Linear(in_features=128, out_features=1024, bias=True)
+  (fc2): Linear(in_features=1024, out_features=1024, bias=True)
+  (fc3): Linear(in_features=1024, out_features=64, bias=True)
+)
